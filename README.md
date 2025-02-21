@@ -1,7 +1,6 @@
 <div align="center">
 
   # Tyler Csurilla
-  ### Software Developer
   
   [LinkedIn](https://www.linkedin.com/in/csurilla/) | [GitHub](https://github.com/Tyler-Csurilla) | [Portfolio](https://tyler-csurilla.github.io/)
 </div>
