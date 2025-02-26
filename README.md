@@ -8,7 +8,7 @@
 ---
 ##  About
 
-Writing code is my profession and my primary hobby. I enjoy routinely working with front-end and back-end code to build things I'm proud of.
+Writing code is my profession and my primary hobby. I enjoy working with front-end and back-end code to build things I'm proud of.
 
 
 ### Languages I prefer:
