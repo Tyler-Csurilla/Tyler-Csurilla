@@ -17,7 +17,13 @@ Writing code is my profession and my primary hobby. I enjoy working with front-e
 - C#
 ---
 
+- I am a fan of creating generative art and simulations
+- I like to work with Angular and React primarily for the front-end. 
+- Love experimenting with newer back-end technologies, but you can never discount the classics.
+
+---
+
 <div align="center">
-⭐️ Feel free to reach out on my links above.
+▲ Feel free to reach out on my links above. ▲
 </div>
 
