@@ -19,7 +19,7 @@ Writing code is my profession and my primary hobby. I enjoy working with front-e
 
 - I am a fan of creating generative art and simulations
 - I like to work with Angular and React primarily for the front-end. 
-- Love experimenting with newer back-end technologies, but you can never discount the classics.
+- Love experimenting with newer back-end technologies.
 
 ---
 
